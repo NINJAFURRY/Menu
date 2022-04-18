@@ -8,3 +8,4 @@ From
 - lvm creation
 - webserver launch
 - salary estimation with ml
+![arth](https://user-images.githubusercontent.com/50458473/163829530-48a31dad-66ea-4caa-bfe8-76ac034b1379.png)
